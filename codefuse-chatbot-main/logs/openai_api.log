@@ -1,0 +1,38 @@
+2024-10-19 22:08:30 | ERROR | stderr | INFO:     Started server process [20624]
+2024-10-19 22:08:30 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:08:30 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:08:30 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:8888 (Press CTRL+C to quit)
+2024-10-19 22:13:45 | ERROR | stderr | INFO:     Started server process [19372]
+2024-10-19 22:13:45 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:13:45 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:13:45 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:8888 (Press CTRL+C to quit)
+2024-10-19 22:13:52 | INFO | stdout | INFO:     127.0.0.1:56758 - "POST /v1/chat/completions HTTP/1.1" 400 Bad Request
+2024-10-19 22:28:41 | ERROR | stderr | INFO:     Started server process [9436]
+2024-10-19 22:28:41 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:28:41 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:28:41 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:8888 (Press CTRL+C to quit)
+2024-10-19 22:29:11 | ERROR | stderr | INFO:     Shutting down
+2024-10-19 22:34:50 | ERROR | stderr | INFO:     Started server process [5972]
+2024-10-19 22:34:50 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:34:50 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:34:50 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:8888 (Press CTRL+C to quit)
+2024-10-19 22:37:40 | ERROR | stderr | INFO:     Shutting down
+2024-10-19 22:38:53 | ERROR | stderr | INFO:     Started server process [23704]
+2024-10-19 22:38:53 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:38:53 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:38:53 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:8888 (Press CTRL+C to quit)
+2024-10-19 22:43:09 | ERROR | stderr | INFO:     Started server process [23456]
+2024-10-19 22:43:09 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:43:09 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:43:09 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:8888 (Press CTRL+C to quit)
+2024-10-19 23:01:36 | ERROR | stderr | INFO:     Shutting down
+2024-10-20 10:25:53 | ERROR | stderr | INFO:     Started server process [17684]
+2024-10-20 10:25:53 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-20 10:25:53 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-20 10:25:53 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:20009 (Press CTRL+C to quit)
+2024-10-20 10:26:22 | INFO | stdout | INFO:     127.0.0.1:51301 - "POST /v1/chat/completions HTTP/1.1" 400 Bad Request
+2024-10-20 12:51:26 | ERROR | stderr | INFO:     Started server process [13484]
+2024-10-20 12:51:26 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-20 12:51:26 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-20 12:51:26 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:8888 (Press CTRL+C to quit)
+2024-10-20 12:59:16 | INFO | stdout | INFO:     127.0.0.1:58811 - "POST /v1/chat/completions HTTP/1.1" 400 Bad Request

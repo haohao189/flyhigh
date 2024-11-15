@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "chat_index": "c1dc7c4b-5a2e-47a0-8eaa-276090a4bfcd",
+      "role_name": "human",
+      "role_type": "user",
+      "role_prompt": "",
+      "input_query": "本搜索引擎是什么搜索引擎",
+      "role_content": "本搜索引擎是什么搜索引擎",
+      "step_content": "",
+      "parsed_output": {},
+      "spec_parsed_output": {},
+      "parsed_output_list": [],
+      "task": null,
+      "db_docs": [],
+      "code_docs": [],
+      "search_docs": [],
+      "customed_kargs": {},
+      "phase_name": "searchChatPhase",
+      "chain_name": ""
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+nohup: ignoring input
+2024-10-20 12:51:12,664 - model_config.py[line:33] - ERROR: No module named 'zdatafront'
+2024-10-20 12:51:16,066 - model_config.py[line:33] - ERROR: No module named 'zdatafront'
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\__init__.py:29: UserWarning: Importing PromptTemplate from langchain root module is no longer supported. Please use langchain_core.prompts.PromptTemplate instead.
+  warnings.warn(
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\__init__.py:29: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\chat_models\__init__.py:32: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+2024-10-20 12:51:17,686 - llm_api.py[line:803] - ERROR: config: {'model_name': 'chatglm2-6b', 'version': 'chatglm2-6b', 'api_base_url': 'https://api.openai.com/v1', 'api_key': 'EMPTY', 'openai_proxy': '', 'provider': 'openai', 'host': '127.0.0.1', 'port': '20006', 'device': 'cpu', 'gpus': None, 'numgpus': 1, 'online_api': True, 'worker_class': <module 'model_workers.openai' from 'C:\\Users\\weiwei\\Desktop\\codefuse-chatbot-main\\examples\\model_workers\\openai.py'>, 'model_path': 'C:\\Users\\weiwei\\Desktop\\codefuse-chatbot-main\\llm_models/chatglm2-6b', 'model_path_exists': True}, chatglm2-6b, dict_keys(['chatglm2-6b'])
+2024-10-20 12:51:20,168 - model_config.py[line:33] - ERROR: No module named 'zdatafront'
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\__init__.py:29: UserWarning: Importing PromptTemplate from langchain root module is no longer supported. Please use langchain_core.prompts.PromptTemplate instead.
+  warnings.warn(
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\__init__.py:29: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\chat_models\__init__.py:32: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+2024-10-20 12:51:21 | ERROR | stderr | INFO:     Started server process [2512]
+2024-10-20 12:51:21 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-20 12:51:21 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-20 12:51:21 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:20001 (Press CTRL+C to quit)
+2024-10-20 12:51:24,280 - model_config.py[line:33] - ERROR: No module named 'zdatafront'
+2024-10-20 12:51:24,343 - model_config.py[line:33] - ERROR: No module named 'zdatafront'
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\__init__.py:29: UserWarning: Importing PromptTemplate from langchain root module is no longer supported. Please use langchain_core.prompts.PromptTemplate instead.
+  warnings.warn(
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\__init__.py:29: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\chat_models\__init__.py:32: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\__init__.py:29: UserWarning: Importing PromptTemplate from langchain root module is no longer supported. Please use langchain_core.prompts.PromptTemplate instead.
+  warnings.warn(
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\__init__.py:29: UserWarning: Importing LLMChain from langchain root module is no longer supported. Please use langchain.chains.LLMChain instead.
+  warnings.warn(
+E:\miniconda\Miniconda\envs\chatbot\lib\site-packages\langchain\chat_models\__init__.py:32: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+2024-10-20 12:51:25,882 - llm_api.py[line:262] - ERROR: 可用模型有哪些: ['chatglm2-6b']
+Process api_worker - chatglm2-6b:
+Traceback (most recent call last):
+  File "E:\miniconda\Miniconda\envs\chatbot\lib\multiprocessing\process.py", line 315, in _bootstrap
+    self.run()
+  File "E:\miniconda\Miniconda\envs\chatbot\lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\weiwei\Desktop\codefuse-chatbot-main\examples\llm_api.py", line 564, in run_model_worker
+    app = create_model_worker_app(log_level=log_level, **kwargs)
+  File "C:\Users\weiwei\Desktop\codefuse-chatbot-main\examples\llm_api.py", line 271, in create_model_worker_app
+    worker = worker_class(model_names=args.model_names,
+TypeError: 'module' object is not callable
+2024-10-20 12:51:26 | ERROR | stderr | INFO:     Started server process [13484]
+2024-10-20 12:51:26 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-20 12:51:26 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-20 12:51:26 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:8888 (Press CTRL+C to quit)
+2024-10-20 12:59:16 | INFO | stdout | INFO:     127.0.0.1:58813 - "POST /list_models HTTP/1.1" 200 OK
+2024-10-20 12:59:16 | INFO | stdout | INFO:     127.0.0.1:58811 - "POST /v1/chat/completions HTTP/1.1" 400 Bad Request

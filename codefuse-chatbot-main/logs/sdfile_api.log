@@ -1,0 +1,28 @@
+nohup: ignoring input
+2024-11-14 15:25:58,779 - model_config.py[line:33] - ERROR: No module named 'zdatafront'
+INFO:     Started server process [10488]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:7862 (Press CTRL+C to quit)
+INFO:     127.0.0.1:63882 - "GET /sdfiles/list HTTP/1.1" 200 OK
+[32m2024-11-14 15:26:07.092[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36msd_download_file[0m:[36m34[0m - [34m[1mC:\Users\weiwei\Desktop\codefuse-chatbot-main\jupyter_work\StudentPerformanceFactors.csv[0m
+INFO:     127.0.0.1:63884 - "GET /sdfiles/download?filename=StudentPerformanceFactors.csv&save_filename=StudentPerformanceFactors.csv HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63915 - "GET /sdfiles/list HTTP/1.1" 200 OK
+[32m2024-11-14 15:27:43.652[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36msd_download_file[0m:[36m34[0m - [34m[1mC:\Users\weiwei\Desktop\codefuse-chatbot-main\jupyter_work\StudentPerformanceFactors.csv[0m
+INFO:     127.0.0.1:63917 - "GET /sdfiles/download?filename=StudentPerformanceFactors.csv&save_filename=StudentPerformanceFactors.csv HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64918 - "GET /sdfiles/list HTTP/1.1" 200 OK
+[32m2024-11-14 15:32:15.273[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36msd_download_file[0m:[36m34[0m - [34m[1mC:\Users\weiwei\Desktop\codefuse-chatbot-main\jupyter_work\StudentPerformanceFactors.csv[0m
+INFO:     127.0.0.1:64920 - "GET /sdfiles/download?filename=StudentPerformanceFactors.csv&save_filename=StudentPerformanceFactors.csv HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64927 - "GET /sdfiles/list HTTP/1.1" 200 OK
+[32m2024-11-14 15:32:20.004[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36msd_download_file[0m:[36m34[0m - [34m[1mC:\Users\weiwei\Desktop\codefuse-chatbot-main\jupyter_work\StudentPerformanceFactors.csv[0m
+INFO:     127.0.0.1:64929 - "GET /sdfiles/download?filename=StudentPerformanceFactors.csv&save_filename=StudentPerformanceFactors.csv HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64935 - "GET /sdfiles/list HTTP/1.1" 200 OK
+[32m2024-11-14 15:32:33.703[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36msd_download_file[0m:[36m34[0m - [34m[1mC:\Users\weiwei\Desktop\codefuse-chatbot-main\jupyter_work\StudentPerformanceFactors.csv[0m
+INFO:     127.0.0.1:64937 - "GET /sdfiles/download?filename=StudentPerformanceFactors.csv&save_filename=StudentPerformanceFactors.csv HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64961 - "GET /sdfiles/list HTTP/1.1" 200 OK
+[32m2024-11-14 15:33:12.725[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36msd_download_file[0m:[36m34[0m - [34m[1mC:\Users\weiwei\Desktop\codefuse-chatbot-main\jupyter_work\StudentPerformanceFactors.csv[0m
+INFO:     127.0.0.1:64963 - "GET /sdfiles/download?filename=StudentPerformanceFactors.csv&save_filename=StudentPerformanceFactors.csv HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [10488]

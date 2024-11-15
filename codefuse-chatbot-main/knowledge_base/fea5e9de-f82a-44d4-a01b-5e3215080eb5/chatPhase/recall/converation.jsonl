@@ -1,0 +1,56 @@
+{
+  "messages": [
+    {
+      "chat_index": "fea5e9de-f82a-44d4-a01b-5e3215080eb5",
+      "role_name": "human",
+      "role_type": "user",
+      "role_prompt": "",
+      "input_query": "请自我介绍",
+      "role_content": "请自我介绍",
+      "step_content": "",
+      "parsed_output": {},
+      "spec_parsed_output": {},
+      "parsed_output_list": [],
+      "task": null,
+      "db_docs": [],
+      "code_docs": [],
+      "search_docs": [],
+      "customed_kargs": {},
+      "phase_name": "chatPhase",
+      "chain_name": ""
+    },
+    {
+      "chat_index": "fea5e9de-f82a-44d4-a01b-5e3215080eb5",
+      "role_name": "qaer",
+      "role_type": "assistant",
+      "role_prompt": "",
+      "input_query": "请自我介绍",
+      "role_content": "**Action Status:** Continued\n**Answer:** 您好，我是一个人工智能助手，我可以帮助您解答问题，提供信息，执行任务等。我是为了帮助您更方便地获取信息和完成任务而设计的。如果您有任何问题或需要帮助，欢迎随时向我提问。",
+      "step_content": "**Action Status:** Continued\n**Answer:** 您好，我是一个人工智能助手，我可以帮助您解答问题，提供信息，执行任务等。我是为了帮助您更方便地获取信息和完成任务而设计的。如果您有任何问题或需要帮助，欢迎随时向我提问。",
+      "parsed_output": {
+        "Action Status": "Continued",
+        "Answer": "您好，我是一个人工智能助手，我可以帮助您解答问题，提供信息，执行任务等。我是为了帮助您更方便地获取信息和完成任务而设计的。如果您有任何问题或需要帮助，欢迎随时向我提问。"
+      },
+      "spec_parsed_output": {
+        "Action Status": "Continued",
+        "Answer": "您好，我是一个人工智能助手，我可以帮助您解答问题，提供信息，执行任务等。我是为了帮助您更方便地获取信息和完成任务而设计的。如果您有任何问题或需要帮助，欢迎随时向我提问。"
+      },
+      "parsed_output_list": [
+        {
+          "Action Status": "Continued",
+          "Answer": "您好，我是一个人工智能助手，我可以帮助您解答问题，提供信息，执行任务等。我是为了帮助您更方便地获取信息和完成任务而设计的。如果您有任何问题或需要帮助，欢迎随时向我提问。"
+        }
+      ],
+      "task": null,
+      "db_docs": [],
+      "code_docs": [],
+      "search_docs": [],
+      "customed_kargs": {
+        "code_content": null,
+        "tool_params": {}
+      },
+      "phase_name": null,
+      "chain_name": null
+    }
+  ]
+}

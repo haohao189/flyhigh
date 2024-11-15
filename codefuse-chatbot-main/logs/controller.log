@@ -1,0 +1,38 @@
+2024-10-19 22:08:27 | ERROR | stderr | INFO:     Started server process [21128]
+2024-10-19 22:08:27 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:08:27 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:08:27 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:20001 (Press CTRL+C to quit)
+2024-10-19 22:13:41 | ERROR | stderr | INFO:     Started server process [12792]
+2024-10-19 22:13:41 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:13:41 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:13:41 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:20001 (Press CTRL+C to quit)
+2024-10-19 22:13:52 | INFO | stdout | INFO:     127.0.0.1:56760 - "POST /list_models HTTP/1.1" 200 OK
+2024-10-19 22:28:37 | ERROR | stderr | INFO:     Started server process [10624]
+2024-10-19 22:28:37 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:28:37 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:28:37 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:20001 (Press CTRL+C to quit)
+2024-10-19 22:29:11 | ERROR | stderr | INFO:     Shutting down
+2024-10-19 22:34:46 | ERROR | stderr | INFO:     Started server process [2272]
+2024-10-19 22:34:46 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:34:47 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:34:47 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:20001 (Press CTRL+C to quit)
+2024-10-19 22:37:40 | ERROR | stderr | INFO:     Shutting down
+2024-10-19 22:38:50 | ERROR | stderr | INFO:     Started server process [18160]
+2024-10-19 22:38:50 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:38:50 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:38:50 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:20001 (Press CTRL+C to quit)
+2024-10-19 22:43:04 | ERROR | stderr | INFO:     Started server process [6256]
+2024-10-19 22:43:04 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-19 22:43:04 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-19 22:43:04 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:20001 (Press CTRL+C to quit)
+2024-10-19 23:01:36 | ERROR | stderr | INFO:     Shutting down
+2024-10-20 10:25:50 | ERROR | stderr | INFO:     Started server process [2828]
+2024-10-20 10:25:50 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-20 10:25:50 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-20 10:25:50 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:20001 (Press CTRL+C to quit)
+2024-10-20 10:26:22 | INFO | stdout | INFO:     127.0.0.1:51303 - "POST /list_models HTTP/1.1" 200 OK
+2024-10-20 12:51:21 | ERROR | stderr | INFO:     Started server process [2512]
+2024-10-20 12:51:21 | ERROR | stderr | INFO:     Waiting for application startup.
+2024-10-20 12:51:21 | ERROR | stderr | INFO:     Application startup complete.
+2024-10-20 12:51:21 | ERROR | stderr | INFO:     Uvicorn running on http://127.0.0.1:20001 (Press CTRL+C to quit)
+2024-10-20 12:59:16 | INFO | stdout | INFO:     127.0.0.1:58813 - "POST /list_models HTTP/1.1" 200 OK
